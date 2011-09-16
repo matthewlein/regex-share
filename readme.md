@@ -8,3 +8,8 @@ second line is Replace
 
     \n  (\w)
     \n    $1
+    
+or any number to 4 spaces (dangerous if you space erratically for flagged properties)
+
+    \n\s+(\w)
+    \n    $1
