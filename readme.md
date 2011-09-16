@@ -4,5 +4,5 @@ Random Regex that are useful
 
 ##2 spaces to 4 spaces
 
-\n  (\w)
-\n    $1
+    \n  (\w)
+    \n    $1
